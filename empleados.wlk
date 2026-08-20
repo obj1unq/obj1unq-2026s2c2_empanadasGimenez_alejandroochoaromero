@@ -1,4 +1,9 @@
-
+/* Hola profesor, este trabajo lo hice en clase en una notebook 
+ donde habia otro usuario configurado en el git local.
+    Me di cuenta que al hacer el commit, el autor del commit era el otro usuario y no yo.
+    Por eso, le vuelvo a subir este archivo con este comentario para que quede mi nombre 
+    en el github.
+*/
 object gimenez {
     var fondo = 300000
 
